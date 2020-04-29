@@ -1,0 +1,44 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
+
+body {
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: 300;
+    background-color: powderblue;
+}
+
+h1, h2 {
+    font-family: 'Poppins';
+    font-weight: 300;
+    background-color: peru;
+
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: slategrey;
+}
+
+a:hover {
+    color: thistle;
+}
+
+#profile {
+    border-radius: 50%;
+}
+
+.card {
+    background-color: wheat;
+    padding: 25px;
+    width: 500px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.card-footer {
+    background-color: wheat;
+    padding: 25px;
+    width: 500px;
+    margin: 20px auto;
+    text-align: center;
+}
